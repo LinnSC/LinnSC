@@ -18,4 +18,5 @@ let skills = {
 code: [html, css, javascript, typescript],
 tools: [react, next.js, SASS, styled-components, emotion],
 UILibraries: [bootstrap, materialUI],
+designTools: [adobeXD, figma],
 }
