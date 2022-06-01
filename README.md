@@ -8,11 +8,6 @@ I am from Stavanger in Norway, but I live in the rainy city of Bergen :umbrella:
 I love cats :cat:, coding, creating stuff, great design (in all shapes and forms), hiking, traveling, fashion and interior design.
 
 
-
----
-
-
-
 ```javascript
 let skills = {
 code: [html, css, javascript, typescript],
@@ -22,7 +17,6 @@ designTools: [adobeXD, figma],
 }
 
 ```
-
 
 ---
 
