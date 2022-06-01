@@ -20,3 +20,12 @@ tools: [react, next.js, SASS, styled-components, emotion],
 UILibraries: [bootstrap, materialUI],
 designTools: [adobeXD, figma],
 }
+
+```
+
+
+---
+
+### Follow me on:
+
+- [Linkedin](https://www.linkedin.com/in/linn-corneliussen-246b0b56/)
