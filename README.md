@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello :yellow_heart: :sparkles:
 
-<!--
-**LinnSC/LinnSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Linn and I am a Frontend Developer (soon, at least). 
 
-Here are some ideas to get you started:
+I am from Stavanger in Norway, but I live in the rainy city of Bergen :umbrella:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I love cats :cat:, coding, creating stuff, great design (in all shapes and forms), hiking, traveling, fashion and interior design.
+
+
+
+---
+
+
+
+```javascript
+let skills = {
+code: [html, css, javascript, typescript],
+tools: [react, next.js, SASS, styled-components, emotion],
+UILibraries: [bootstrap, materialUI],
+}
