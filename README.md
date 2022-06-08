@@ -17,9 +17,9 @@ I love cats :cat:, coding, creating stuff, great design (in all shapes and forms
 ```javascript
 let skills = {
 code: [html, css, javascript, typescript],
-tools: [react, next.js, SASS, styled-components, emotion],
+tools: [react, next.js, SASS, emotion],
 UILibraries: [bootstrap, materialUI],
-designTools: [adobeXD, figma],
+designTools: [adobeXD, figma, adobeAI, adobePS, adobeID],
 }
 
 ```
