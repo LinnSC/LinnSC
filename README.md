@@ -1,6 +1,6 @@
 ## Hello :yellow_heart: :sparkles:
 
-My name is Linn and I am a Frontend Developer. 
+My name is Linn and I am a Front-end Developer. 
 
 I am from Stavanger - Norway, but I live in the rainy city of Bergen :umbrella:
 <br />
