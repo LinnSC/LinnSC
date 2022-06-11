@@ -15,7 +15,7 @@ I love cats :cat:, coding, creating stuff, great design (in all shapes and forms
 
 
 ```javascript
-let skills = {
+const skills = {
 code: [html, css, javascript, typescript],
 tools: [react, next.js, SASS, sass/css-modules, emotion, styled components],
 UILibraries: [bootstrap, materialUI],
